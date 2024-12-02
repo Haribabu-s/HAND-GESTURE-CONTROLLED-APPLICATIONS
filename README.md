@@ -8,7 +8,7 @@ This project aims to provide a hand gesture based control systems for media apps
 1. Clone the repo.
    
    ```bash
-   git clone https://github.com/DeenuYT/Hand-Gesture-Controlled-Applications.git
+   git clone https://github.com/Haribabu-s/HAND-GESTURE-CONTROLLED-APPLICATIONS.git
    ```
 3. Create a virtual environment (Optional).
    ```bash
